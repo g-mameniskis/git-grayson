@@ -27,11 +27,11 @@
 * from a _terminal_ navigate to the root directory of the _cloned_ project.
 * from the root directory of the project, execute the following commands:
     * add all files in current directory to be indexed
-      * `git add .`
+        * `git add .`
     * save all indexed changes to local repository
-      * `git commit -m 'I have added my name to the text file!'`
+        * `git commit -m 'I have added my name to the text file!'`
     * push changes from local repository to remote repository
-      * `git push -u origin master`
+        * `git push -u origin master`
 
 ### Part 4 - Submitting assignment
 * from the browser, navigate to the _forked_ project from **your** bitbucket account.
