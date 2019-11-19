@@ -3,7 +3,6 @@
 * **Purpose** - To establish familiarity with CSS and basic HTML.
 * **Description**
     * You are provided with resume template prebuilt in `HTML`, and `CSS`, using the most popular `CSS` framework on the web, [Bootstrap](https://getbootstrap.com/)
-    * Using the html tags that you already know, modify the html content so each individual file looks similar to their respective image.
 
 
 ## Part 1 - Clone the project
