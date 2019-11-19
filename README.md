@@ -6,7 +6,7 @@
     * You are provided with an `index.html` document at the root of this project.
     * Edit the document by adding information about yourself to it.
     * This will be accomplished over the course of several days.
-    * The objective is to achieve a portfolio which resembles in the image below.
+    * The objective is to achieve a portfolio which resembles the image below.
 
 ![](./portfolio-goal.png)
 
