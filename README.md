@@ -28,7 +28,7 @@
 * from the root directory of the project, execute the following commands:
     * `git add .`
         * add all files in current directory to be indexed        
-    * `git commit -m 'I have added my name to the text file!'`
+    * `git commit -m 'I have made an edit to a file!'`
         * save all indexed changes to local repository
     * `git push -u origin master`
         * push changes from local repository to remote repository
