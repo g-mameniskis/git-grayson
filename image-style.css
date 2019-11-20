@@ -1,61 +1,70 @@
-* {
-    margin: 0;
-    padding: 0;
-    }
-
     .box-container {
-    display: flex;
+        display: flex;
     }
     body {
-    background-color: white;
-    border-style: 8px double;
-    border-color: black;
+        background-color: white;
+        border-style: 8px double;
+        border-color: black;
     }
     .header {
-    background-color: lightgrey;
-    width: 87.5%;
-    border: 10px outset grey;
-    border-top: 0px;
-    padding: 45px;
-    margin: 50px;
-    display: flex;
+        background-color: lightgrey;
+        width: 82%;
+        height: 10%;
+        border: 10px outset grey;
+        border-top: 10px;
+        padding: 45px;
+        margin: 50px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: row-reverse;
     }
     .image {
-    alt: "Image";
-    height: "50";
-    width: "25";
-    margin-left: "5";
-    display: flex;
+        alt: "Image";
+        height: 200px;
+        width: 175px;
+        margin-left: 5px;
+        display: flex;
     }
     p {
-    background-color: lightgrey;
-    width: 300px;
-    border: 10px inset grey;
-    padding: 50px;
-    margin: 50px;
-    }
-    h1 {
-    margin-left: 650px;
-    }
-    h3 {
-    margin-left: 656px;
-    margin-top: 0px;
-    }
-    .education {
-    background-color: lightgrey;
-    width: 800px;
-    border: 10px inset grey;
-    padding: 50px;
-    margin: 50px;
-    margin-left: 550px;
-    margin-top: 5px;
-    }
-    .interests {
         background-color: lightgrey;
-        width: 800px;
+        width: 300px;
         border: 10px inset grey;
         padding: 50px;
         margin: 50px;
-        margin-left: 550px;
+    }
+    h1 {
+        margin-left: 25px;
+        display: flex;
+    }
+    h3 {
+        margin-left: 200px;
+        margin-top: 0px;
+        display: flex;
+    }
+    .education {
+        background-color: lightgrey;
+        width: 200px;
+        border: 10px inset grey;
+        padding: 50px;
+        margin: 10px;
+        margin-left: 50px;
         margin-top: 5px;
-        }
+    }
+    .interests {
+        background-color: lightgrey;
+        width: 200px;
+        border: 10px inset grey;
+        padding: 50px;
+        margin: 10px;
+        margin-left: 50px;
+        margin-top: 5px; 
+    }
+    .experience {
+        background-color: lightgrey;
+        width: 500px;
+        border: 10px inset grey;
+        padding: 50px;
+        margin: 50px;
+        margin-left: 400px;
+        margin-top: 5px;
+    }
