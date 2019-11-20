@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+    .box-container {
+    display: flex;
+    }
+    body {
+    background-color: white;
+    border-style: 8px double;
+    border-color: black;
+    }
+    .header {
+    background-color: lightgrey;
+    width: 87.5%;
+    border: 10px outset grey;
+    border-top: 0px;
+    padding: 45px;
+    margin: 50px;
+    display: flex;
+    }
+    .image {
+    alt: "Image";
+    height: "50";
+    width: "25";
+    margin-left: "5";
+    display: flex;
+    }
+    p {
+    background-color: lightgrey;
+    width: 300px;
+    border: 10px inset grey;
+    padding: 50px;
+    margin: 50px;
+    }
+    h1 {
+    margin-left: 650px;
+    }
+    h3 {
+    margin-left: 656px;
+    margin-top: 0px;
+    }
+    .education {
+    background-color: lightgrey;
+    width: 800px;
+    border: 10px inset grey;
+    padding: 50px;
+    margin: 50px;
+    margin-left: 550px;
+    margin-top: 5px;
+    }
+    .interests {
+        background-color: lightgrey;
+        width: 800px;
+        border: 10px inset grey;
+        padding: 50px;
+        margin: 50px;
+        margin-left: 550px;
+        margin-top: 5px;
+        }
