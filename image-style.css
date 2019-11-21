@@ -24,7 +24,7 @@
         padding: 25px;
         padding-top: 10px;
         margin: 5px;
-        margin-left: 220px;
+        margin-left: 20px;
     }
     #name {
         display: flex;
@@ -32,8 +32,9 @@
     }
     .image {
         alt: "Image";
-        height: 200px;
-        width: 175px;
+        border: 10px grey;
+        height: 240px;
+        width: 180px;
         margin-left: 5px;
         display: flex;
     }
@@ -44,10 +45,13 @@
         margin-left: 200px;
         margin-top: 0px;
     }
+    h4 {
+        margin-left: 300px;
+    }
     .bio {
         background-color: lightgrey;
         width: 200px;
-        border: 10px inset grey;
+        border: 10px outset grey;
         padding: 25px;
         padding-top: 10px;
         margin: 5px;
@@ -80,7 +84,7 @@
     .skills {
         background-color: lightgrey;
         width: 307px;
-        border: 10px inset grey;
+        border: 10px outset grey;
         padding: 25px;
         padding-top: 10px;
         margin: 5px;
