@@ -3,7 +3,7 @@
         flex-wrap: wrap;
     }
     body {
-        background-color: white;
+        background-color: teal;
         border-style: 8px double;
         border-color: black;
     }
@@ -15,6 +15,10 @@
         padding: 5px;
         margin: 5px;
         display: flex;
+    }
+    #name {
+        display: flex;
+        flex-wrap: wrap;
     }
     .image {
         alt: "Image";
@@ -45,6 +49,7 @@
         padding: 25px;
         margin: 5px;
     }
+
     .interests {
         background-color: lightgrey;
         width: 200px;
@@ -58,4 +63,13 @@
         border: 10px inset grey;
         padding: 25px;
         margin: 5px;
+        flex-wrap: wrap;
+    }
+    .skills {
+        background-color: lightgrey;
+        width: 307px;
+        border: 10px inset grey;
+        padding: 25px;
+        margin: 5px;
+        flex-wrap: wrap;
     }
