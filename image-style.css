@@ -33,6 +33,7 @@
     .image {
         alt: "Image";
         border: 10px grey;
+        border: solid;
         height: 240px;
         width: 180px;
         margin-left: 5px;
