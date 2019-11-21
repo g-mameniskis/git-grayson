@@ -16,6 +16,16 @@
         margin: 5px;
         display: flex;
     }
+    .contact {
+        background-color: black;
+        color: lightgray;
+        width: 310px;
+        border: 10px inset grey;
+        padding: 25px;
+        padding-top: 10px;
+        margin: 5px;
+        margin-left: 220px;
+    }
     #name {
         display: flex;
         flex-wrap: wrap;
@@ -47,6 +57,7 @@
         width: 200px;
         border: 10px inset grey;
         padding: 25px;
+        padding-top: 10px;
         margin: 5px;
     }
 
@@ -55,6 +66,7 @@
         width: 200px;
         border: 10px inset grey;
         padding: 25px;
+        padding-top: 10px;
         margin: 5px;
     }
     .experience {
@@ -70,6 +82,7 @@
         width: 307px;
         border: 10px inset grey;
         padding: 25px;
+        padding-top: 10px;
         margin: 5px;
         flex-wrap: wrap;
     }
